@@ -187,3 +187,23 @@ The project demonstrates how hierarchical clustering can reveal relationships be
 3. Install the required Python libraries.
 4. Open the Jupyter Notebook file in Jupyter Notebook or Google Colab.
 5. Make sure the corresponding CSV dataset is available in the correct directory.
+6. Run all cells sequentially.
+
+## Key Skills Demonstrated
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
+- Feature Selection and Feature Scaling
+- Regression and Classification
+- Neural Network Implementation
+- Unsupervised Learning and Clustering
+- Cross-Validation and Hyperparameter Tuning
+- Model Evaluation and Interpretation
+- Data Visualization
+- Python Programming
+
+## Academic Background
+
+These projects were completed as part of the Artificial Intelligence course at the Faculty of Organizational Sciences, University of Belgrade.
+
+The repository serves as a practical portfolio demonstrating my understanding of fundamental machine learning algorithms and their application to real-world datasets.
