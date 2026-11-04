@@ -41,8 +41,6 @@ Each folder contains Jupyter Notebook exercises related to a particular machine 
 
 These exercises were completed as part of university coursework and exam preparation. Some materials are based on examples provided by the Artificial Intelligence course at the Faculty of Organizational Sciences.
 
-Original course materials: https://github.com/vestackainteligencijafon
-
 ## Dataset Availability
 
 Some datasets are not included. Refer to individual notebooks and task descriptions for dataset requirements and availability.
