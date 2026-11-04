@@ -48,6 +48,3 @@ The analysis examines how effectively kNN distinguishes highly streamed songs fr
 ## Academic Reference
 
 Based on university coursework in Intelligent Systems at the Faculty of Organizational Sciences, University of Belgrade.
-
-GitHub: https://github.com/KatarinaKozjak
-
