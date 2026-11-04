@@ -35,7 +35,7 @@ The model achieved the following evaluation results:
 The model explains approximately 87.58% of the variability in protein content on the evaluated dataset. Regression diagnostics were also performed to investigate residual behavior, influential observations, and potential violations of model assumptions.
 
 ## Dataset
-The analysis uses `fastfood.csv`. The dataset is not included in this repository.
+The analysis uses `fastfood.csv`.
 
 ## Academic Reference
 This project is based on university coursework in Artificial Intelligence.
