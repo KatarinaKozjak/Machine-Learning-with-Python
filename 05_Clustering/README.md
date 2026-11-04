@@ -50,3 +50,35 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Jupyter Notebook.
 3. Open the notebook in Jupyter Notebook or Google Colab.
 4. Run all cells sequentially.
 
+## Hierarchical Clustering
+
+This project uses agglomerative hierarchical clustering to group Spotify songs based on their musical characteristics and chart performance.
+
+### Methodology
+
+1. Data loading and filtering
+2. Missing-value handling
+3. Feature selection and correlation analysis
+4. Outlier detection and treatment
+5. Feature normalization using MinMaxScaler
+6. Dendrogram analysis using different linkage methods
+7. Hierarchical clustering with K = 2 and K = 4
+8. Cluster visualization and interpretation
+
+### Results
+
+The analysis was performed on 952 songs using Ward linkage and Euclidean distance.
+
+Two clustering solutions were explored to examine how songs can be grouped based on their similarities.
+
+The resulting clusters were compared using boxplots, cluster sizes, and feature distributions.
+
+### Conclusion
+
+Hierarchical clustering identified groups of songs with similar characteristics without using predefined class labels.
+
+Dendrograms provided a visual representation of the relationships between songs and helped explore different clustering solutions.
+
+### Technologies
+
+Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Scikit-learn, Jupyter Notebook.
